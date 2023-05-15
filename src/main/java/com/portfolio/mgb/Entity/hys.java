@@ -50,4 +50,7 @@ public class hys {
         this.porcentaje = porcentaje;
     }
 
+    
+    
+    
 }
